@@ -1,6 +1,7 @@
 ---
 title: "Software Libre para una Sociedad Libre"
-author: ""
+author: "FERIA INDUSTRIAL GRAN RÍO CUARTO"
+date: 11 de junio de 2017
 output: revealjs::revealjs_presentation
 ---
 
