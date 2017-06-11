@@ -4,6 +4,23 @@ author: ""
 output: revealjs::revealjs_presentation
 ---
 
+# 
+
+![](img/banner-fce.unrc-.jpg)
+
+# 
+
+![](img/logo_fce.jpg)
+
+Programa de uso y difusión del Software Libre
+
+#
+
+![](img/banner-software-libre.jpg)
+
+Secretaría de Extensión y Asistencia Técnica,
+Facultad de Ciencias Económicas, UNRC
+
 # ¿Qué es el Software?
 
 # Software Privativo
