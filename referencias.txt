@@ -1,0 +1,16 @@
+Software Libre una alternativa viable para Empresas
+y para hacer Empresa
+http://www.eqsoft.net/documentos/SL_una_alternativa_para_empresas_y_hacer_empresas.pdf
+
+El software libre para emprendedores y pequeñas empresas - FLISOL 2014
+https://www.youtube.com/watch?v=-3gdFQRYH3w
+
+razones p/ usar SL
+- aprovechar PC viejas
+- equipos económicos rpi
+- actualizaciones "sin problemas"
+  - virus, malware, rasonware, etc
+  
+Riesgos y costos del uso de software ilegal en las PyMEs de Argentina
+http://www.bsa.org/~/media/Files/Research%20Papers/esAR/piracyperceptions_esAR.ashx
+

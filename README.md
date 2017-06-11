@@ -1,2 +1,2 @@
-# sl.com
-Presentación de Sl en empresas
+# sl.edu
+Presentación de Software Libre en Educación
