@@ -146,9 +146,15 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 uso de las tecnologías, porque el Software Libre respeta la libertad
 del usuario y la solidaridad social de su comunidad" RMS
 
-#
+# Combatir la OBSOLESCENCIA PROGRAMADA
+
+una distro para cada requerimiento
+
+# 
 
 ![](img/old_pc.jpg)
+
+Comprar, tirar, comprar
 
 # Actualizaciones
 
